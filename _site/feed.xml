@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temples of Code</title>
+    <description>The knowledge vault.</description>
+    <link>http://192.168.33.16:4000</link>
+    <atom:link href="http://192.168.33.16:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Beginnings</title>
+        <description>&lt;p&gt;Aparesco&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+        <link>http://192.168.33.16:4000/posts/beginnings</link>
+        <guid isPermaLink="true">http://192.168.33.16:4000/posts/beginnings</guid>
+      </item>
+    
+  </channel>
+</rss>
