@@ -1,7 +1,6 @@
 ---
-tags:
-- php
-- file i/o
+tags: php i/o
+description: read a file, then iterae line by line
 ---
 Iterate over the set of lines from a file:
 
