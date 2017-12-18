@@ -1,6 +1,6 @@
 ---
 tags: php i/o
-description: read a file, then iterae line by line
+description: read a file, then iterate line by line
 ---
 Iterate over the set of lines from a file:
 
