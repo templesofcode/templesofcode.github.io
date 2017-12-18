@@ -1,4 +1,7 @@
 ---
+tags:
+- php
+- file i/o
 ---
 Iterate over the set of lines from a file:
 
