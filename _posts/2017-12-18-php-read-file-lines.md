@@ -1,6 +1,6 @@
 ---
 ---
-Iterate over the set of lines from a file/
+Iterate over the set of lines from a file:
 
 ```php
 $lines = file('/tmp/test.txt');
