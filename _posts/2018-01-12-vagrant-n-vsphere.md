@@ -2,7 +2,8 @@
 tags: vagrant vsphere
 description: vagrantfile
 ---
-First, install the vsphere plugin at [vagrant-vsphere](https://github.com/nsidc/vagrant-vsphere)
+First, install the vsphere plugin at [vagrant-vsphere](https://github.com/nsidc/vagrant-vsphere).
+
 Here is a template the can be used to setup a VM in vsphere using vagrant.
 
 ```ruby
